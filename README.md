@@ -1,4 +1,4 @@
-# ZUHLKE Sales Order (CSV DB writer)
+# Sales Order (CSV DB writer)
 
 This is an app to read and write csv files that will save in the database
 
